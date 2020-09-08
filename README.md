@@ -1,6 +1,6 @@
-Este é um projeto em React para estudos onde imita a interface estilizada para parecer o Instagram, utilizando o Firebase.
+# Este é um projeto em React para estudos onde imita a interface estilizada para parecer o Instagram, utilizando o Firebase.
 
-O que ele faz?
+## O que ele faz?
 -Cria e gerencia autenticação de usuário (utilizando o Firebase)
 -Faz upload de imagens, Posts, com legenda (armazenadas no Storage do Firebase)
 -Permite comentários para cada Post
@@ -9,17 +9,17 @@ O que ele faz?
 
 Após clonar o repositório, instalar as dependências:
 
-npm install -save @material-ui/core
-npm i firebase
+**npm install -save @material-ui/core**
+**npm i firebase**
 
 (não esqueça o sudo se estiver no Linux ;D )
 
 no terminal, vá até a pasta do projeto:
 
-cd ~user~/projetos/react-instagram-clone
+**cd ~ user ~/projetos/react-instagram-clone**
 
 inicie o projeto:
 
-npm start
+**npm start**
 
 divirta-se!
