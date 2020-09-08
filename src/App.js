@@ -174,7 +174,7 @@ function App() {
           
           {/* conditional render: se estiver logado, o botão disponível é para logout */}
         {user ? (
-          <Button onClick={() => auth.signOut()}>Lougout</Button>
+          <Button onClick={() => auth.signOut()}>Logout</Button>
         ): (
           <div className="app__loginContainer">
           <Button onClick={() => setOpenSignIn(true)}>Sign In</Button>
