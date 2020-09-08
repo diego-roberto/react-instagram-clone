@@ -10,6 +10,7 @@
 Após clonar o repositório, instalar as dependências:
 
 **npm install -save @material-ui/core**
+
 **npm i firebase**
 
 (não esqueça o sudo se estiver no Linux ;D )
