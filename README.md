@@ -2,7 +2,9 @@
 
 ## O que ele faz?
 -Cria e gerencia autenticação de usuário (utilizando o Firebase)
+
 -Faz upload de imagens, Posts, com legenda (armazenadas no Storage do Firebase)
+
 -Permite comentários para cada Post
 
 (obviamente requer Node.js, ok? ...então prepare seu ambiente =D )
