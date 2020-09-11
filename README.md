@@ -11,7 +11,7 @@
   <img width="460" height="300" src="Screenshot_instagram-clone-react.png">
 </p>
 
-(obviamente requer Node.js, ok? ...então prepare seu ambiente =D )
+(obviamente requer Node.js, ok? ...então prepare seu ambiente 😃 )
 
 Após clonar o repositório, instalar as dependências:
 
@@ -19,7 +19,7 @@ Após clonar o repositório, instalar as dependências:
 
 **npm i firebase**
 
-(não esqueça o sudo se estiver no Linux ;D )
+(não esqueça o sudo se estiver no Linux 😉)
 
 no terminal, vá até a pasta do projeto:
 
