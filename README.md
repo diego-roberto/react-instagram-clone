@@ -7,6 +7,10 @@
 
 -Permite comentários para cada Post
 
+<p align="center">
+  <img width="460" height="300" src="Screenshot_instagram-clone-react.png">
+</p>
+
 (obviamente requer Node.js, ok? ...então prepare seu ambiente =D )
 
 Após clonar o repositório, instalar as dependências:
